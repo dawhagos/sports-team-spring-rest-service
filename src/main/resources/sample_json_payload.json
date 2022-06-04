@@ -1,27 +1,22 @@
 {
-  "players": {
-    "player": [
-      {
-        "firstName": "Fred",
-        "lastName": "Landis",
-        "school": "Duke",
-        "jersey": {
-        }
-      },
-      {
-        "firstName": "Harison",
-        "lastName": "Butler",
-        "school": "Texas",
-        "jersey": {
-        }
-      },
-      {
-        "firstName": "Ted",
-        "lastName": "Little",
-        "school": "Stanford",
-        "jersey": {
-        }
-      }
-    ]
-  }
+  "player": [
+    {
+      "firstName": "Fred",
+      "lastName": "Landis",
+      "school": "Duke",
+      "jersey": ""
+    },
+    {
+      "firstName": "Harison",
+      "lastName": "Butler",
+      "school": "Texas",
+      "jersey": ""
+    },
+    {
+      "firstName": "Ted",
+      "lastName": "Little",
+      "school": "Stanford",
+      "jersey": ""
+    }
+  ]
 }
